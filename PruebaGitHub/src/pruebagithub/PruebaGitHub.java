@@ -2,7 +2,7 @@ package pruebagithub;
 
 import java.util.Scanner;
 
-public class PruebaGitHub {
+public class PruebaGitHub { //Version 2.0
     
     public static void main(String[] args) {
         Scanner leer=new Scanner(System.in);
